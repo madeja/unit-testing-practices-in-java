@@ -324,7 +324,7 @@ class AnalyzeProjectCommand extends Command
         }
 
         $this->info('DONE');
-        return;
+        return 0;
     }
 
     /**
