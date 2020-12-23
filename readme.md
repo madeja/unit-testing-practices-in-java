@@ -1,5 +1,5 @@
-# Unit Testing Practices in Java: A Large-Scale Study on Open Source Projects
-This project is part of the scientific paper **Unit Testing Practices in Java: A Large-Scale Study on Open Source Projects**. 
+# Automating Test Case Identification in Open Source Projects on GitHub
+This project is part of the scientific paper **Automating Test Case Identification in Open Source Projects on GitHub**. 
 
 ## Automated analysis
 For automated analysis can be used [AnalyzeProjectCommand.php](./AnalyzeProjectCommand.php) that can be imported as [Laravel command](https://laravel.com/docs/artisan) and executed via `php artisan projects:analyse`.
